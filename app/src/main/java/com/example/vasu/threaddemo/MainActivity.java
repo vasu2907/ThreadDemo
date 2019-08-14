@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-    //Hey There
+    //Hey There Vasu
     void openImageChooser()
     {   String action;
         Intent intent = new Intent();
